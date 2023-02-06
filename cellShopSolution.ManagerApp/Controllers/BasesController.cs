@@ -1,0 +1,18 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
+
+namespace cellShopSolution.ManagerApp.Controllers
+{
+    public class BasesController : Controller
+    {
+        public override void OnActionExecuting(ActionExecutingContext context)
+        {
+            var sessions = context.HttpContext.Session.GetString("Token");
+            if (sessions == null)
+            {
+                context.Result = new RedirectToActionResult("Index", "Login", null);
+            }
+            base.OnActionExecuting(context);
+        }
+    }
+}

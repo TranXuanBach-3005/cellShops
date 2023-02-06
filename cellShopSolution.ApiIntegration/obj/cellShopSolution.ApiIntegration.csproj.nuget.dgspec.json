@@ -1,0 +1,478 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.ApiIntegration\\cellShopSolution.ApiIntegration.csproj": {}
+  },
+  "projects": {
+    "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\cellShopSloution.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\cellShopSloution.ViewModel.csproj",
+        "projectName": "cellShopSloution.ViewModel",
+        "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\cellShopSloution.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\XuanBach\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XuanBach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.ApiIntegration\\cellShopSolution.ApiIntegration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.ApiIntegration\\cellShopSolution.ApiIntegration.csproj",
+        "projectName": "cellShopSolution.ApiIntegration",
+        "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.ApiIntegration\\cellShopSolution.ApiIntegration.csproj",
+        "packagesPath": "C:\\Users\\XuanBach\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.ApiIntegration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XuanBach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\cellShopSloution.ViewModel.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\cellShopSloution.ViewModel.csproj"
+              },
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.BackendAPI\\cellShopSolution.BackendAPI.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.BackendAPI\\cellShopSolution.BackendAPI.csproj"
+              },
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj"
+              },
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\cellShopSolution.Utilities.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\cellShopSolution.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Application\\cellShopSolution.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Application\\cellShopSolution.Application.csproj",
+        "projectName": "cellShopSolution.Application",
+        "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Application\\cellShopSolution.Application.csproj",
+        "packagesPath": "C:\\Users\\XuanBach\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XuanBach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\cellShopSloution.ViewModel.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\cellShopSloution.ViewModel.csproj"
+              },
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj"
+              },
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\cellShopSolution.Utilities.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\cellShopSolution.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNet.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.BackendAPI\\cellShopSolution.BackendAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.BackendAPI\\cellShopSolution.BackendAPI.csproj",
+        "projectName": "cellShopSolution.BackendAPI",
+        "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.BackendAPI\\cellShopSolution.BackendAPI.csproj",
+        "packagesPath": "C:\\Users\\XuanBach\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.BackendAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XuanBach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\cellShopSloution.ViewModel.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSloution.ViewModel\\cellShopSloution.ViewModel.csproj"
+              },
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Application\\cellShopSolution.Application.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Application\\cellShopSolution.Application.csproj"
+              },
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj"
+              },
+              "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\cellShopSolution.Utilities.csproj": {
+                "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\cellShopSolution.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj",
+        "projectName": "cellShopSolution.Data",
+        "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\cellShopSolution.Data.csproj",
+        "packagesPath": "C:\\Users\\XuanBach\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XuanBach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Server.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\cellShopSolution.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\cellShopSolution.Utilities.csproj",
+        "projectName": "cellShopSolution.Utilities",
+        "projectPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\cellShopSolution.Utilities.csproj",
+        "packagesPath": "C:\\Users\\XuanBach\\.nuget\\packages\\",
+        "outputPath": "D:\\LapTrinhC#\\cellShopSolution\\cellShopSolution.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\XuanBach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+﻿@model cellShopSloution.ViewModel.Dtos.Users.UserUpdateResquest
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm("Edit","Users",FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+<div class="container-fluid px-4">
+    <h4 class="mt-4 text-center">CẬP NHẬT NGƯỜI DÙNG</h4>
+    <div class="card mb-4">
+        <div class="col-md-6 text-right">
+                <button class="btn btn-sm btn-success" type="submit" value="Edit"><i class="fas fa-save"></i> Lưu[Cập nhật]</button>
+                <a href="@Url.Action("Index", "Users")" class="btn btn-sm btn-info"><i class="fas fa-long-arrow-alt-left"></i>Về danh sách</a>
+            </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-12">
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="FirstName" class="control-label"></label>
+                            <input asp-for="FirstName" class="form-control" />
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="LastName" class="control-label"></label>
+                            <input asp-for="LastName" class="form-control" />
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="PhoneNumber" class="control-label"></label>
+                            <input asp-for="PhoneNumber" class="form-control" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Edit" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr />
+}

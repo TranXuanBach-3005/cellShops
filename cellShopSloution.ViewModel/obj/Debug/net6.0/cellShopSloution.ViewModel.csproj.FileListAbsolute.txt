@@ -1,0 +1,45 @@
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.csproj.AssemblyReference.cache
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.AssemblyInfoInputs.cache
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.AssemblyInfo.cs
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.csproj.CoreCompileInputs.cache
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSloution.ViewModel.deps.json
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSloution.ViewModel.dll
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSloution.ViewModel.pdb
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSolution.Data.dll
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSolution.Data.pdb
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.csproj.CopyComplete
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.dll
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\refint\cellShopSloution.ViewModel.dll
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.pdb
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\ref\cellShopSloution.ViewModel.dll
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSloution.ViewModel.deps.json
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSloution.ViewModel.dll
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSloution.ViewModel.pdb
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSolution.Data.dll
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSolution.Data.pdb
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.csproj.AssemblyReference.cache
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.AssemblyInfoInputs.cache
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.AssemblyInfo.cs
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.csproj.CoreCompileInputs.cache
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.csproj.CopyComplete
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.dll
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\refint\cellShopSloution.ViewModel.dll
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.pdb
+E:\Lập trình C#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\ref\cellShopSloution.ViewModel.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSloution.ViewModel.deps.json
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSloution.ViewModel.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSloution.ViewModel.pdb
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSolution.Data.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\bin\Debug\net6.0\cellShopSolution.Data.pdb
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.csproj.AssemblyReference.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.AssemblyInfoInputs.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.AssemblyInfo.cs
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.csproj.CoreCompileInputs.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.csproj.CopyComplete
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\refint\cellShopSloution.ViewModel.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\cellShopSloution.ViewModel.pdb
+D:\LapTrinhC#\cellShopSolution\cellShopSloution.ViewModel\obj\Debug\net6.0\ref\cellShopSloution.ViewModel.dll

@@ -1,0 +1,14 @@
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\bin\Release\net6.0\cellShopSolution.Data.deps.json
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\bin\Release\net6.0\cellShopSolution.Data.runtimeconfig.json
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\bin\Release\net6.0\cellShopSolution.Data.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\bin\Release\net6.0\cellShopSolution.Data.pdb
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\cellShopSolution.Data.csproj.AssemblyReference.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\cellShopSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\cellShopSolution.Data.AssemblyInfoInputs.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\cellShopSolution.Data.AssemblyInfo.cs
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\cellShopSolution.Data.csproj.CoreCompileInputs.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\cellShopSolution.Data.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\refint\cellShopSolution.Data.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\cellShopSolution.Data.pdb
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\cellShopSolution.Data.genruntimeconfig.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Data\obj\Release\net6.0\ref\cellShopSolution.Data.dll

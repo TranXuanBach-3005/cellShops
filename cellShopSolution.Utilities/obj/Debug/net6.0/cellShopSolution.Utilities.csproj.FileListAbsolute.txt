@@ -1,0 +1,36 @@
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\bin\Debug\net6.0\cellShopSolution.Utilities.deps.json
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\bin\Debug\net6.0\cellShopSolution.Utilities.dll
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\bin\Debug\net6.0\cellShopSolution.Utilities.pdb
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.csproj.AssemblyReference.cache
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.AssemblyInfoInputs.cache
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.AssemblyInfo.cs
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.csproj.CoreCompileInputs.cache
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.dll
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\refint\cellShopSolution.Utilities.dll
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.pdb
+E:\Lập trình C#\webApi\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\ref\cellShopSolution.Utilities.dll
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\bin\Debug\net6.0\cellShopSolution.Utilities.deps.json
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\bin\Debug\net6.0\cellShopSolution.Utilities.dll
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\bin\Debug\net6.0\cellShopSolution.Utilities.pdb
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.csproj.AssemblyReference.cache
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.AssemblyInfoInputs.cache
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.AssemblyInfo.cs
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.csproj.CoreCompileInputs.cache
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.dll
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\refint\cellShopSolution.Utilities.dll
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.pdb
+E:\Lập trình C#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\ref\cellShopSolution.Utilities.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\bin\Debug\net6.0\cellShopSolution.Utilities.deps.json
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\bin\Debug\net6.0\cellShopSolution.Utilities.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\bin\Debug\net6.0\cellShopSolution.Utilities.pdb
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.csproj.AssemblyReference.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.AssemblyInfoInputs.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.AssemblyInfo.cs
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.csproj.CoreCompileInputs.cache
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\refint\cellShopSolution.Utilities.dll
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\cellShopSolution.Utilities.pdb
+D:\LapTrinhC#\cellShopSolution\cellShopSolution.Utilities\obj\Debug\net6.0\ref\cellShopSolution.Utilities.dll
